@@ -1,0 +1,16 @@
+version: 2
+
+sources:
+  - name: Bronze
+    database: E_OLIST  
+    schema: BRONZE 
+    tables:
+      - name: PRODUCT
+      - name: PRODUCT_CATEGORY_NAME
+      - name: REVIEWS
+      - name: PAYMENT
+      - name: CUSTOMER
+      - name: SELLERS
+      - name: GEOLOCATION
+      - name: ORDER_ITEMS
+      - name: ORDERS
