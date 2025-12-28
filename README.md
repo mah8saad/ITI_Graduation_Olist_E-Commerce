@@ -81,9 +81,9 @@ Implement a Streaming Layer using Apache Kafka and Spark as per the Lambda Archi
 ## 👥 The Team
 This project was developed as a collaborative effort by a dedicated Data Engineering team. Special thanks to all team members for their contributions:
 
-Omar Yehia  | [🔗 LinkedIn](https://www.linkedin.com/in/omaryahia-/) |
+Mahmmoud Saad  | [🔗 LinkedIn](https://www.linkedin.com/in/mahmoud-saad-8540b63a0) |
 
-Mahmmoud Saad   | [🔗 LinkedIn](https://www.linkedin.com/in/mahmoud-saad-8540b63a0) |
+Omar Yehia   | [🔗 LinkedIn](https://www.linkedin.com/in/omaryahia-/) |
 
 Nora Magdy  | [🔗 LinkedIn](https://www.linkedin.com/in/noramagdy) |
 
